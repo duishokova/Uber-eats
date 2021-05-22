@@ -260,3 +260,74 @@ button {
 .block_5 img {
   float: right;
 }
+
+.footer {
+  width: 1124px;
+  height: 443px;
+  background: #262626;
+  margin: 80px 0 0 110px;
+}
+
+.item img {
+  padding: 54px 0 0 81px;
+}
+
+hr {
+  width: 956px;
+  height: 1px;
+  background: #ffffff;
+  mix-blend-mode: normal;
+  opacity: 0.4;
+  margin: 40px 0 0 81px;
+}
+
+.footer__line {
+  display: flex;
+}
+
+.footer__text {
+  padding: 32px 0 0 81px;
+}
+
+.social {
+  padding-top: 32px;
+}
+
+.footer__line p {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: normal;
+  font-size: 13px;
+  line-height: 15px;
+  color: #ffffff;
+  padding-top: 23px;
+}
+.footer__item {
+  padding: 39px 0 0 97px;
+}
+
+.footer__block {
+  padding: 39px 0 0 232px;
+}
+
+.item__line {
+  display: flex;
+  padding: 40px 0 0 81px;
+}
+
+.item__line p {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: normal;
+  font-size: 11px;
+  line-height: 13px;
+  color: #ffffff;
+}
+
+.line_1 {
+  padding-left: 231px;
+}
+
+.line__2 {
+  padding-left: 231px;
+}
